@@ -18,7 +18,7 @@ Game is ready to run!
 
 ### Run
 
-Go to the catalog with files
+Go to the catalog with files. For example
 
 ```
 cd 'D:\Bomberman-master\'
