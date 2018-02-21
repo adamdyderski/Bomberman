@@ -1,4 +1,4 @@
-# Bomberman by Adam Dyderski
+# Bomberman
 
 Game created for Python classes.
 
